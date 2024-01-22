@@ -1,0 +1,9 @@
+a.active {
+  color: gold;
+}
+
+a {
+  display: block;
+  color: silver;
+  text-decoration: none;
+}
